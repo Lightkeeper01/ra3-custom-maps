@@ -1,0 +1,59 @@
+{
+  "status": "NEW_EVENT_MAP_RUNTIME_UNVERIFIED",
+  "version": "0.2-experimental",
+  "ore_grid_max_error_game_units": 0.00029152599756798736,
+  "runtime_texture_pairs": 42,
+  "size": [
+    760,
+    760
+  ],
+  "objects": 1349,
+  "seats": [
+    {
+      "seat": 1,
+      "land_component": 1,
+      "spawn_height": 230.0,
+      "home_ore_reachable": true
+    },
+    {
+      "seat": 2,
+      "land_component": 1,
+      "spawn_height": 230.0,
+      "home_ore_reachable": true
+    },
+    {
+      "seat": 3,
+      "land_component": 1,
+      "spawn_height": 230.0,
+      "home_ore_reachable": true
+    },
+    {
+      "seat": 4,
+      "land_component": 1,
+      "spawn_height": 230.0,
+      "home_ore_reachable": true
+    },
+    {
+      "seat": 5,
+      "land_component": 1,
+      "spawn_height": 230.0,
+      "home_ore_reachable": true
+    },
+    {
+      "seat": 6,
+      "land_component": 1,
+      "spawn_height": 230.0,
+      "home_ore_reachable": true
+    }
+  ],
+  "ore_nodes": 27,
+  "oil_derricks": 6,
+  "building_footprints_checked": 14,
+  "sea_components": 1,
+  "issues": [],
+  "limitations": [
+    "New map dimensions, special facility art and event scripts require in-game testing. Old map remains separate.",
+    "Naval pathing, all three faction construction, AI behavior and match completion require RA3 runtime verification.",
+    "Geometric tests are not a guarantee of engine compatibility."
+  ]
+}

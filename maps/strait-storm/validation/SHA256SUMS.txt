@@ -1,0 +1,2 @@
+ce20bb96287a68f864ea6890992092cdd05cd7c57e4da31e802e9ebea479da7a  Strait-Storm-v1.2.zip
+535d419d0de558d4f497ba67691bd12c71cd2203460eabee12318103a18bdf36  Strait-Storm-v1.2-Source.zip

@@ -1,0 +1,66 @@
+{
+  "game": "Command & Conquer: Red Alert 3",
+  "patch": "1.12",
+  "maps": [
+    {
+      "id": "three-kingdoms",
+      "title": "Three Kingdoms - Mandate 219 [6P]",
+      "version": "0.2",
+      "folder": "Three_Kingdoms_219_6P",
+      "guide": "maps/three-kingdoms/README.md",
+      "release": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/tag/three-kingdoms-v0.2",
+      "player": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/three-kingdoms-v0.2/Three-Kingdoms-Mandate-219-v0.2.zip",
+      "source": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/three-kingdoms-v0.2/Three-Kingdoms-Mandate-219-v0.2-Source.zip",
+      "sha256": {
+        "Three-Kingdoms-Mandate-219-v0.2-Source.zip": "8c1b00ada5520182c061eba419aec157178b7620837a549f2e9861fe9133d357",
+        "Three-Kingdoms-Mandate-219-v0.2.zip": "589af35bfc19b0532afaed5852ff71cd1eac27534b312e1080dd3dd24aace55b"
+      },
+      "status": "Experimental terrain revision. v0.1 user-reported playable with shallow-water naval blockage; v0.2 depth, clearance, mountain passages, 27 refinery aprons, 20 event-model scenarios and exact source rebuild passed. Revised engine navigation and balance await playtesting."
+    },
+    {
+      "id": "black-tide",
+      "title": "Black Tide - Salvage Wars [6P]",
+      "version": "1.0",
+      "folder": "Black_Tide_6P",
+      "guide": "maps/black-tide/README.md",
+      "release": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/tag/collection-2026-09-13",
+      "player": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/collection-2026-09-13/Black-Tide-v1.0.zip",
+      "source": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/collection-2026-09-13/Black-Tide-v1.0-Source.zip",
+      "sha256": {
+        "Black-Tide-v1.0.zip": "f437db9384a8ef9cff2ea92e5d18cd48d1fb68aa22842eca21c09936cede3952",
+        "Black-Tide-v1.0-Source.zip": "c6be299fb12d8812460bca47f015359e084c7e8c776f5fcda4ab38ba27aaa402"
+      },
+      "status": "Experimental release. Geometry and 19 event-model scenarios passed; a source archive rebuild was byte-identical. In-game rendering, balance and multiplayer behavior still need playtesting."
+    },
+    {
+      "id": "strait-storm",
+      "title": "Strait Storm - Wild Supplies [6P]",
+      "version": "1.2",
+      "folder": "Strait_Storm_6P",
+      "guide": "maps/strait-storm/README.md",
+      "release": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/tag/collection-2026-09-13",
+      "player": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/collection-2026-09-13/Strait-Storm-v1.2.zip",
+      "source": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/collection-2026-09-13/Strait-Storm-v1.2-Source.zip",
+      "sha256": {
+        "Strait-Storm-v1.2.zip": "ce20bb96287a68f864ea6890992092cdd05cd7c57e4da31e802e9ebea479da7a",
+        "Strait-Storm-v1.2-Source.zip": "535d419d0de558d4f497ba67691bd12c71cd2203460eabee12318103a18bdf36"
+      },
+      "status": "Experimental release. File, geometry and event-model checks passed. The randomized v1.2 revision has not completed an in-game playtest. Legacy Chinese event captions may not render correctly on all installations."
+    },
+    {
+      "id": "strait-reunification",
+      "title": "Strait Reunification [6P]",
+      "version": "0.9.2",
+      "folder": "Strait_Reunification_6P",
+      "guide": "maps/strait-reunification/README.md",
+      "release": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/tag/collection-2026-09-13",
+      "player": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/collection-2026-09-13/Strait-Reunification-v0.9.2.zip",
+      "source": "https://github.com/Lightkeeper01/ra3-custom-maps/releases/download/collection-2026-09-13/Strait-Reunification-v0.9.2-Source.zip",
+      "sha256": {
+        "Strait-Reunification-v0.9.2.zip": "11e185b2f09d4d9bc3acc539f76ed19a5f8454db1af362354a1b54750324b5f5",
+        "Strait-Reunification-v0.9.2-Source.zip": "8221cbf411f8abf4500567c0a07df95d6de0de29d48b8d2b937c9d77b321d649"
+      },
+      "status": "The author reported a playable match. This is not a certification of every faction, AI setting or multiplayer configuration."
+    }
+  ]
+}

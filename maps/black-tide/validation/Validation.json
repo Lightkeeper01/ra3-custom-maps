@@ -1,0 +1,8 @@
+{
+  "map_sha256": "2aa2a064643a83643a5b65da3671f9aa131178c4720d39fb35e9d89a9ffd64ee",
+  "geometry_issues": [],
+  "event_model": "PASS",
+  "event_scenarios": 19,
+  "runtime_verified": false,
+  "status": "Experimental release. Geometry and 19 event-model scenarios passed; a source archive rebuild was byte-identical. In-game rendering, balance and multiplayer behavior still need playtesting."
+}

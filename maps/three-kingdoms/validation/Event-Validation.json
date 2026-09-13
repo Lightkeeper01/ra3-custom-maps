@@ -1,0 +1,452 @@
+{
+  "status": "PASS",
+  "script_count": 474,
+  "scenarios": {
+    "seed_1": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 106,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "seed_2": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 105,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "seed_3": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 101,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "seed_4": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 106,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "seed_5": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 14,
+      "supply_events": 14,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 104,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "seed_6": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 14,
+      "supply_events": 14,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 103,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "absent": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 0,
+      "supply_events": 8,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 77,
+      "sites": [
+        1,
+        2
+      ],
+      "loot": [],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "destroyed": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 0,
+      "supply_events": 16,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 35,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [],
+      "winners": []
+    },
+    "neutral": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 60,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": []
+    },
+    "tie": {
+      "link_payments": 26,
+      "contract_wins": 17,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 106,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2,
+        3
+      ]
+    },
+    "handover": {
+      "link_payments": 16,
+      "contract_wins": 7,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 90,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        2
+      ]
+    },
+    "cooldown_capture": {
+      "link_payments": 26,
+      "contract_wins": 7,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 18,
+      "captions": 87,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        2
+      ]
+    },
+    "broken_and_reconnected_supply_link": {
+      "link_payments": 24,
+      "contract_wins": 8,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 2,
+      "starter_units": 18,
+      "captions": 90,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2
+      ]
+    },
+    "two_players_closed_slots": {
+      "link_payments": 26,
+      "contract_wins": 11,
+      "salvage_claims": 15,
+      "supply_events": 15,
+      "guns": 3,
+      "starter_units": 6,
+      "captions": 97,
+      "sites": [
+        1,
+        2,
+        3
+      ],
+      "loot": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "winners": [
+        1,
+        2
+      ]
+    },
+    "loot_1": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 3,
+      "supply_events": 4,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 16,
+      "sites": [
+        1,
+        2
+      ],
+      "loot": [
+        1
+      ],
+      "winners": []
+    },
+    "loot_2": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 3,
+      "supply_events": 4,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 16,
+      "sites": [
+        1,
+        2
+      ],
+      "loot": [
+        2
+      ],
+      "winners": []
+    },
+    "loot_3": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 3,
+      "supply_events": 4,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 16,
+      "sites": [
+        1,
+        2
+      ],
+      "loot": [
+        3
+      ],
+      "winners": []
+    },
+    "loot_4": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 3,
+      "supply_events": 4,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 16,
+      "sites": [
+        1,
+        2
+      ],
+      "loot": [
+        4
+      ],
+      "winners": []
+    },
+    "loot_5": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 3,
+      "supply_events": 4,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 16,
+      "sites": [
+        1,
+        2
+      ],
+      "loot": [
+        5
+      ],
+      "winners": []
+    },
+    "loot_6": {
+      "link_payments": 0,
+      "contract_wins": 0,
+      "salvage_claims": 3,
+      "supply_events": 4,
+      "guns": 0,
+      "starter_units": 18,
+      "captions": 16,
+      "sites": [
+        1,
+        2
+      ],
+      "loot": [
+        6
+      ],
+      "winners": []
+    }
+  },
+  "ascii_strings": true,
+  "verified_ea_assets": 277,
+  "persistent_panels": false,
+  "limitations": "Behavior model and geometry checks, not RA3 runtime proof; native RNG is modeled with seeded RNG."
+}

@@ -1,0 +1,85 @@
+{
+  "status": "PASS",
+  "land_percent": {
+    "Wei": 30.4,
+    "Shu": 38.0,
+    "Wu": 31.6
+  },
+  "yangtze_deepwater": {
+    "surface_height": 200,
+    "bed_height_max": 95.0,
+    "minimum_center_depth": 105.0,
+    "minimum_deepwater_clearance_game_units": 82.46211251235322,
+    "deepwater_test_max_bed_height": 130,
+    "samples": 2201,
+    "runtime_verified": false
+  },
+  "mountain_passes": [
+    {
+      "name": "Shu Road - Jianmen",
+      "minimum_clearance_game_units": 50.0
+    },
+    {
+      "name": "Yinping flank - gameplay route",
+      "minimum_clearance_game_units": 31.622776601683796
+    }
+  ],
+  "mountain_crests": [
+    {
+      "name": "Qinling",
+      "median_crest_height": 409.296875,
+      "unplanned_breaches": 0
+    },
+    {
+      "name": "Jianmen",
+      "median_crest_height": 370.0,
+      "unplanned_breaches": 0
+    }
+  ],
+  "connected_river_points": [
+    [
+      270,
+      295
+    ],
+    [
+      315,
+      283
+    ],
+    [
+      355,
+      292
+    ],
+    [
+      415,
+      273
+    ],
+    [
+      470,
+      262
+    ],
+    [
+      505,
+      295
+    ],
+    [
+      550,
+      452
+    ],
+    [
+      610,
+      560
+    ],
+    [
+      690,
+      550
+    ],
+    [
+      710,
+      300
+    ],
+    [
+      710,
+      140
+    ]
+  ]
+}

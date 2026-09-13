@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.pyc
+# Versioned player/source packages belong in GitHub Releases.
+*.zip

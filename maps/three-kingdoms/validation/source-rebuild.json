@@ -1,0 +1,8 @@
+{
+  "version": "0.2-experimental",
+  "status": "PASS",
+  "source_zip_sha256": "8c1b00ada5520182c061eba419aec157178b7620837a549f2e9861fe9133d357",
+  "fresh_extraction_configure_build_validate_preview": "PASS",
+  "all_four_native_files_exact_rebuild": true,
+  "runtime_tested": false
+}
